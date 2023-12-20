@@ -1,0 +1,1 @@
+In this project, we aim to develop a machine learning model for classifying SMS messages into spam and non-spam categories. This classification task is crucial in identifying and filtering out unwanted messages that are often sent for malicious or fraudulent purposes.
